@@ -4,4 +4,4 @@ member:
 Reece Lardy
 Zhengqi Liu
 Ethan Hetrman
-Satchal PostLewaite
+Satchal Postlewaite
