@@ -3,5 +3,5 @@ this should be a silly story and not freak out anyone. It should have a characte
 - write the first paragraph of your story (a paragraph is 2-4 sentences)
 - save your file
 
-
+There once was a speedy Hare who bragged about how fast he could run. Tired of hearing him boast, the Tortoise challenged him to a race. All the animals in the forest gathered to watch.
 
