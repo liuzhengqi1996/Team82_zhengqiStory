@@ -1,0 +1,7 @@
+his should be a silly story and not freak out anyone. It should have a character in it who you should name. 
+- use any editor to create a file named story.txt
+- write the first paragraph of your story (a paragraph is 2-4 sentences)
+- save your file
+
+
+
